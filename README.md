@@ -1,1 +1,1 @@
-Codeforces question and answers, solved by Burak Alp Yasar
+Codeforces questions and answers, solved by Burak Alp Yasar
