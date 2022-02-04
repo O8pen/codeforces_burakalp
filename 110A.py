@@ -1,6 +1,3 @@
-from distutils import core
-
-
 inp1 = input()
 
 correct = 'YES'
