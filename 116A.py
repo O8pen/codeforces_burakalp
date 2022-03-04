@@ -1,3 +1,2 @@
 inp1 = int(input())
-
-#new pull request test 4
+inp2 = str(input())
